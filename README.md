@@ -1,8 +1,8 @@
 <div align="center">
   
-###KIM NA WON
+##KIM NA WON
   
-DONGGUK.univ Computer Engineering
+***DONGGUK.univ Computer Engineering***
 
 🎨 #Design 
   
