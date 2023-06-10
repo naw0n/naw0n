@@ -8,7 +8,6 @@
   
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square&logo=AdobeInDesign&logoColor=white"/>  
   
 ### 💻 Develop
   
