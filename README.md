@@ -21,9 +21,4 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>  
-
-  
-  
-  
-![naw0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=naw0n&&show_icons=true&theme=Hidingspecificstats)
   </div>
