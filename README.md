@@ -1,24 +1,34 @@
-<div align="center">
-  
-# KIM NA WON
+# Hi, I'm naw0n 👋
 
+자동화로 반복을 줄이고, AI로 가능성을 넓히는 데 관심이 많습니다.
 
-### 🎨 Design 
+---
+
+### 🔎 Interest
+
+- **Google Apps Script** — Google Workspace 자동화 & 업무 효율화
+- **AI Automation** — AI Agent 설계 및 워크플로우 자동화
+
+---
+
+### 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 📫 Contact
+
+- GitHub: [@naw0n](https://github.com/naw0n)
+- Gmail: nkim220@gmail.com
   
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
-  
-### 💻 Develop
-  
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=fflat-square&logo=Python&logoColor=white">
-  
-### 👨‍👩‍👦‍👦 Cowork Tool
-  
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>  
-  </div>
+<!--
+프로젝트가 추가되면 아래 섹션을 활성화하세요!
+
+### 📁 Projects
+| 프로젝트 | 설명 |
+|----------|------|
+| [프로젝트명](링크) | 간단한 설명 |
+-->
